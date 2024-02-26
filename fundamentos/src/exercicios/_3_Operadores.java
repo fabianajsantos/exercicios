@@ -1,5 +1,5 @@
 package exercicios;
 
-public class Operadores {
+public class _3_Operadores {
 
 }

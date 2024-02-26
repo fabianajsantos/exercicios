@@ -1,7 +1,7 @@
 package exercicios;
 
 //pascal case -> PrimeiroPrograma
-public class PrimeiroPrograma {
+public class _1_PrimeiroPrograma {
 	
 //	main ctrl + space simultaneamente
 	public static void main(String[] args) {

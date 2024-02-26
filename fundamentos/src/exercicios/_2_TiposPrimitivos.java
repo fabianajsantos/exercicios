@@ -1,6 +1,6 @@
 package exercicios;
 
-public class TiposPrimitivos {
+public class _2_TiposPrimitivos {
 	
 	public static void main(String[] args) {
 		

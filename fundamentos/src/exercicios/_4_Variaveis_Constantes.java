@@ -1,6 +1,6 @@
 package exercicios;
 
-public class VariaveisAreaCircunferencia {
+public class _4_Variaveis_Constantes {
 	
 	public static void main(String[] args) {
 		
