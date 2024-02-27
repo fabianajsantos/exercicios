@@ -9,13 +9,17 @@ public class _4_Variaveis_Constantes {
 		
 		//declara tipo variavel, nome variavel, valor variavel
 		
-		double radio = 3.4; //declaracao de variavel
+		double raio = 3.4; //declaracao de variavel
 		
 		final double PI = 3.14159; //declaracao de contante
 		
+		double area = PI * raio * raio;
+		System.out.println("Valor variavel área" + area);
 		
-		
-		System.out.println(radio);
+		raio = 10;
+		area = PI * raio * raio;
+		System.out.println("Valor constante área = " + area );
+
 	}
 
 }
