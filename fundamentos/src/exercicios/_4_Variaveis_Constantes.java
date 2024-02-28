@@ -18,6 +18,7 @@ public class _4_Variaveis_Constantes {
 		
 		raio = 10;
 		area = PI * raio * raio;
+
 		System.out.println("Valor constante área = " + area );
 
 	}
