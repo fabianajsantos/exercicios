@@ -21,5 +21,5 @@ public class ProdutoCadastro {
 
 		System.out.printf("Média do carrinho = R$%.2f.", mediaCarrinho);
 	}
-//ctrl + shift + f
+//ctrl + shift + f - identar
 }
