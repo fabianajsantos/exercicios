@@ -7,7 +7,7 @@ public class Cao {
 	String raca;
 	String nome;
 	
-	// declarando o metodo do objeto
+	// declarando o metodo do objeto - void que dizer que retorna vazio
 	void latido() {
 		System.out.println(nome + ": Au, Au!!");
 	}
