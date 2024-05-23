@@ -6,9 +6,6 @@ public class LivroDigital extends Livro {
 
 	private String marcaDagua;
 
-	/*
-	 * public LivroDigital(Autor autor) { return autor); }
-	 */
 	public String marcaDagua() {
 		return marcaDagua;
 	}
@@ -17,12 +14,11 @@ public class LivroDigital extends Livro {
 		this.marcaDagua = marcaDagua;
 	}
 
-	/*public boolean aplicaDescontoDe(double percentagem) {
+	public boolean aplicaDescontoDe(double percentagem) {
 		if (percentagem > 0.15) {
 			return false;
 		}
-		// this.valor -= this.valor * percentagem;
-		// return true;
-		return super.aplicaDescontoDe(percentagem);
-	}*/
+		this.valor -= this.valor * percentagem;
+		return true;
+	}
 }
